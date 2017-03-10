@@ -103,6 +103,7 @@ a:after {
 
 .header h3 a {
   color: #fff;
+  background: rgba(0,0,0,0.2);
 }
 
 /* About Wrap */
